@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**huhuexists/huhuexists** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+### Hey Visitors
+* <b>I am a programmer and a hacker.
+* <b>I love programming since 2019.
+* <b>I am very good at Python programming language.
+### My Favourite IDE's
+* <img src="src/pycharm.svg" alt="ide">
+* <img src="src/vscode.svg" alt="ide">
+### Programming Languages
+* <img src="src/python.svg" alt="lang">
+* <img src="src/bash.svg" alt="lang">
+### My Sponsor
+* <img src="src/cisco.svg" alt="sponsor">
